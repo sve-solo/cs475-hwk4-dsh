@@ -9,3 +9,9 @@
 #define HISTORY_LEN 100
 
 // TODO: Your function prototypes below
+
+char** split(char* str, char* delim);
+
+int mode1(char** path);
+
+int mode2(char** path);

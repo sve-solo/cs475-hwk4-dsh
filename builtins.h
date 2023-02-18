@@ -3,8 +3,8 @@ typedef enum
 	CMD_EXT,	// external command
 	CMD_CD,		// cd
 	CMD_PWD,	// pwd
-	CMD_HIST, // history
-	CMD_EXIT	// exit
+	//CMD_HIST, // history
+	CMD_EXIT,	// exit
 } cmd_t;
 
 /**
